@@ -86,32 +86,6 @@ Este documento resume las pruebas realizadas y analiza las razones por las cuale
 7. **Errores en el Preprocesamiento**:
    - Algunos datos podrían no estar bien procesados desde el sprite.
 
----
-
-## **3. Propuestas de Mejora**
-
-### **3.1 Arquitectura del Modelo**
-- Probar modelos más complejos:
-  - Redes convolucionales profundas como ResNet o MobileNet.
-
-### **3.2 Transfer Learning**
-- Usar un modelo preentrenado:
-  - MobileNet o EfficientNet como base para extracción de características.
-
-### **3.3 Optimización Avanzada**
-- Implementar estrategias como:
-  - Decay dinámico del learning rate.
-  - Optimizadores avanzados como AdamW.
-
-### **3.4 Aumento Extremo de Datos**
-- Generar más datos artificialmente:
-  - Deformaciones no lineales.
-  - Inversiones parciales.
-
-### **3.5 Uso de Conjuntos Modernos**
-- Probar datasets como:
-  - Fashion-MNIST.
-  - CIFAR-10.
 
 ---
 
