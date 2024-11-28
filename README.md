@@ -96,4 +96,6 @@ El estancamiento en ~89% se debe probablemente a una combinación de:
 2. Limitaciones del dataset MNIST.
 3. Regularización y optimización subóptimas.
 
+
+
 ---
